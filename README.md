@@ -141,8 +141,6 @@ uav-mission-planning/
 - 航线数据随浏览器及网址保存；切换端口、浏览器或清除站点数据后不会自动迁移，重要航线请导出备份。
 - 地图显示与模型航点的坐标处理不同；KMZ 导出和导入目标设备前，应核对坐标、高程基准与机型兼容性。
 
-## 参考项目与许可
-
-仓库展示方式参考 [AeroMind](https://github.com/Gypsophilazd/AeroMind) 与 [m400-spatial-perception](https://github.com/AcrazyQ/m400-spatial-perception) 的工程说明组织方式。第二个项目为受限访问仓库。本次整理未引入这两个项目的源码、设备配置或私有文档。
+## 许可
 
 源码沿用原交付代码中的 [GNU GPL v3](LICENSE)。第三方依赖保留各自许可证；实验文档、界面中的地图影像及三维模型包含独立的素材与数据权利，不将源码许可证扩展为这些内容的额外授权。

@@ -29,7 +29,7 @@ GitHub Actions 持续执行同样的安装、测试与构建步骤。任务结�
 - Release 保留演示 PPTX 的原始字节内容；Word 文档仅保留在本地。
 - 模型 ZIP 保留 `public/models/ruansan` 的目录层级与全部瓦片。
 - Release 的 `SHA256SUMS.txt` 提供下载资产校验值。
-- 未引入参考仓库代码或运行配置；原有源码许可证保持不变。
+- 原有源码许可证保持不变。
 
 ## 未验证内容
 
