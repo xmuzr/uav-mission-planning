@@ -26,7 +26,7 @@ GitHub Actions 持续执行同样的安装、测试与构建步骤。任务结�
 ## 资料来源与完整性
 
 - 六张展示截图直接提取自现有技术文档和实验报告。
-- Release 保留两份 DOCX 与一份 PPTX 的原始字节内容。
+- Release 保留演示 PPTX 的原始字节内容；Word 文档仅保留在本地。
 - 模型 ZIP 保留 `public/models/ruansan` 的目录层级与全部瓦片。
 - Release 的 `SHA256SUMS.txt` 提供下载资产校验值。
 - 未引入参考仓库代码或运行配置；原有源码许可证保持不变。

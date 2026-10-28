@@ -131,7 +131,7 @@ uav-mission-planning/
 - [系统架构](docs/ARCHITECTURE.md)：源码入口、数据流与坐标处理。
 - [验证记录](docs/VALIDATION.md)：测试范围、构建结果和验证边界。
 - [更新记录](CHANGELOG.md)：本次发布整理内容。
-- [Release](https://github.com/xmuzr/uav-mission-planning/releases/tag/v0.1.0)：三维模型、技术文档、实验报告、演示 PPTX 及 SHA-256 校验清单。
+- [Release](https://github.com/xmuzr/uav-mission-planning/releases/tag/v0.1.0)：三维模型、演示 PPTX 及 SHA-256 校验清单。Word 文档保留在本地。
 
 ## 已知边界
 

@@ -43,8 +43,8 @@ npm start
 
 修改源码或增加模型后需重新构建。不要直接通过文件协议打开 `dist/index.html`。
 
-## 下载原始资料
+## 下载演示资料
 
-Release 中的 `technical-document.docx`、`experiment-report.docx` 和 `route-planning-demo.pptx` 分别对应原交付的技术文档、无人机多类型航线规划实验报告和多模态航线规划演示。它们保持原文件内容，截图可能反映不同操作阶段。
+Release 中的 `route-planning-demo.pptx` 对应原交付的多模态航线规划演示，保持原文件内容。Word 技术文档与实验报告仅保留在本地，不作为 GitHub 下载资产。截图可能反映不同操作阶段。
 
 当前源码目录没有 `bridge415.obj`，因此本次文档不沿用旧运行说明中“附带该 OBJ 模型”的描述。

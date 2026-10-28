@@ -33,7 +33,7 @@ The production server binds to `127.0.0.1`, starting at port 5173. Download the 
 
 - [Usage](docs/USAGE.md), [architecture](docs/ARCHITECTURE.md) and [validation](docs/VALIDATION.md) are currently in Chinese.
 - Six screenshots in `docs/images/` are extracted from the project's existing technical documents.
-- The release contains the sample 3D tiles, technical document, experimental report, presentation and SHA-256 checksums.
+- The release contains the sample 3D tiles, presentation and SHA-256 checksums. Word documents remain local.
 - Source retains the existing [GPL-3.0 license](LICENSE). Third-party dependencies and data retain their respective rights.
 
 The existing 26 tests cover selected planning, geometric visibility and KMZ export behavior. They do not establish real-flight performance, physical safety or quantified coverage guarantees.
